@@ -1,1 +1,1 @@
-pull test conflict
+pull test conflict addedfrom Master
