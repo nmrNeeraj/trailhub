@@ -1,2 +1,6 @@
-pull test conflictfromfirstbranch 123
+
+pull test conflictfromfirstbranch 123 and addition from master
 edited from first branch
+
+
+
